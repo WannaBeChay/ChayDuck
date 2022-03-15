@@ -1,2 +1,2 @@
-# ChayDuck
-ChayDuck Bot
+### ChayDuck
+
