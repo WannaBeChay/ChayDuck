@@ -1,0 +1,37 @@
+ {
+    "token":"TOKEN",
+    "prefix":"PREFIX",
+
+    "help_menu": {
+        "ping": {
+            "titulo": "Ping",
+            "descricao": "To ping the bot.",
+            "inline": "true"
+                },
+        "uptime": {
+            "titulo": "Uptime",
+            "descricao": "Se the bot uptime.",
+            "inline": "true"
+                },
+        "profile": {
+            "titulo": "Profile",
+            "descricao": "Your profile.",
+            "inline": "true"
+                },
+        "balance": {
+            "titulo": "Balance",
+            "descricao": "Your Bank Acc.",
+            "inline": "false"
+                },
+        "lvl": {
+            "titulo": "Lvl",
+            "descricao": "Your lvl.",
+            "inline": "true"
+                },
+        "RR": {
+            "titulo": "rr",
+            "descricao": "Restart command",
+            "inline": "true"
+                }
+    }
+}
